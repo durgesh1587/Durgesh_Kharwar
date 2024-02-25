@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/durgesh1587/Projects](https://github.com/durgesh1587/Projects)
 
-- 💬 Ask me about **I have 4.5 year IT Sales Software Experience i did my post graduations M.com from University of VBSP my passionate learning and explore new Problem find solution.**
+- 💬 Ask me about **Aspiring Data Scientist with a strong academic background in M.com and comprehensive skills in Python, statistics, Machine Learning, Deep Learning, Computer Vision, Power BI, MongoDB, and MySQL. Passionate about leveraging data-driven insights to solve complex problems and drive innovation. Eager to contribute my expertise in data science to a dynamic organization to make data-informed decisions and deliver impactful solutions.**
 
 - 📫 How to reach me **durgeshkharwar72@gmail.com**
 
