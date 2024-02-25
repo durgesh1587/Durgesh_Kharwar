@@ -12,7 +12,8 @@
 
 - 💬**Aspiring Data Scientist with a strong academic background in M.com and comprehensive skills in Python, statistics, Machine Learning, Deep Learning, Computer Vision, Power BI, MongoDB, and MySQL. Passionate about leveraging data-driven insights to solve complex problems and drive innovation. Eager to contribute my expertise in data science to a dynamic organization to make data-informed decisions and deliver impactful solutions.**
 
-- 📫 How to reach me **durgeshkharwar72@gmail.com**
+- 📫 How to reach me **linkedin.com/in/durgeshkharwar**
+- Email_ID :**durgeshkharwar72@gmail.com**
 
 - ⚡ Fun fact **😊**
 
