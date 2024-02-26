@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Durgesh Kharwar</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
 
-<img=align="right" >[image](https://media.licdn.com/dms/image/D5616AQEDU3ldnoJdGg/profile-displaybackgroundimage-shrink_350_1400/0/1704796907329?e=1714608000&v=beta&t=6C-x0k6VCUPKrJfaREfvP3RquxNIfJJSHZrLbY5BOwQ)
+<img=align="right" >alt="coding"width="300"src="![image](https://media.licdn.com/dms/image/D5616AQEDU3ldnoJdGg/profile-displaybackgroundimage-shrink_350_1400/0/1704796907329?e=1714608000&v=beta&t=6C-x0k6VCUPKrJfaREfvP3RquxNIfJJSHZrLbY5BOwQ)
 "
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh1587&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh1587" /> </p>
