@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning **Data scientist**
 
 - 👨‍💻 All of my projects are available at [https://github.com/durgesh1587/Projects](https://github.com/durgesh1587/Projects)
+- 👨‍💻 All of my projects are available at [https://github.com/durgesh1587/DiamondPricePrediction_Projects).
 
 - 💬**Aspiring Data Scientist with a strong academic background in M.com and comprehensive skills in Python, statistics, Machine Learning, Deep Learning, Computer Vision, Power BI, MongoDB, and MySQL. Passionate about leveraging data-driven insights to solve complex problems and drive innovation. Eager to contribute my expertise in data science to a dynamic organization to make data-informed decisions and deliver impactful solutions.**
 
