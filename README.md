@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Data scientist**
 
 - 👨‍💻House-Price-Prediction-Projects at [https://github.com/durgesh1587/durgesh1587-house-price-prediction-projects].
-- 👨‍💻 Flipkart-Web-Scraping_projects at [https://github.com/durgesh1587/Projects].
+- 👨‍💻 Flipkart-Web-Scraping_projects at[https://github.com/durgesh1587/flipkart-web-scraping-with-selenium].
 - 👨‍💻 Diamond_Price_Prediction_Projects at [https://github.com/durgesh1587/DiamondPricePrediction_Projects].
 
 - 💬**Aspiring Data Scientist with a strong academic background in M.com and comprehensive skills in Python, statistics, Machine Learning, Deep Learning, Computer Vision, Power BI, MongoDB, and MySQL. Passionate about leveraging data-driven insights to solve complex problems and drive innovation. Eager to contribute my expertise in data science to a dynamic organization to make data-informed decisions and deliver impactful solutions.**
